@@ -1,15 +1,26 @@
-![Ransom Banner](https://user-images.githubusercontent.com/57842220/134852460-f70a7f30-1363-43fe-b8c4-9f04556ffcbc.png)
+# Educational Ransomware - Learn About Information Security
 
-Ransomware developed for educational purposes, to better understand the world of information security (the apparent password was intentional, in case anyone is interested in checking it!)
+This educational ransomware has been created for the sole purpose of increasing awareness and understanding in the field of information security. It's important to note that the seemingly provided password is intentional, in case anyone wishes to explore the code further.
 
-### How to run the ransomware? 🏃‍♀️
+## How to Run the Ransomware 🏃‍♀️
 
-To run the program and encrypt the files:
-```sh
+To run the program and encrypt files, follow these steps:
+
+1. Make sure you have Python 3.9 installed on your system.
+
+2. Open your terminal and execute the following command:
+
+```
 python3.9 main.py
 ```
 
-To use the decryption key you need to enter debugging the code as follows:
-```sh
-python3.9 main.py -d
+## Decrypting Files 🔓
+
+In order to use the decryption key and recover encrypted files, you should debug the code as follows:
+
+1. Open your terminal and execute the following command:
 ```
+python3.9 main.py -d
+````
+
+This educational tool is intended for research and learning purposes only, and its use should adhere to ethical guidelines and the law.
